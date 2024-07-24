@@ -12,10 +12,10 @@ Read a bit more to get to know me
 
 ### My tech stack goes like ->
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,atom,css,figma,html,js,,ai,linux,ubuntu,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,atom,css,figma,html,js,ai,linux,ubuntu,git,github)](https://skillicons.dev) 
 
 ### Currently I am Learning
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,atom,css,figma,html,js,,ai,linux,ubuntu,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,atom,css,figma,html,js,ai,linux,ubuntu,git,github)](https://skillicons.dev) 
 <br>
 from [Boot.dev](https://www.boot.dev/tracks/backend)
 
