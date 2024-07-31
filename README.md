@@ -6,7 +6,7 @@ So hey, I am an aspiring full-stack dev & a cyber security expert!
 Currently,
 <br>
 - 🔭 &nbsp; I’m currently working on a  **AI integrated web app**
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvJES2mxk3o-KocsuOqqYCt9Ll4ESRwb/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume]
 <br>
 Read a bit more to get to know me 
 
@@ -32,4 +32,3 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 <a href="https://linkedin.com/in/soumi-ghosh-7129012a5?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsumita&theme=tokyonight&show_icons=true&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
