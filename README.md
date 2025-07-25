@@ -1,7 +1,7 @@
 
 # Soumi here!! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-So hey, I am an aspiring full-stack dev & a cyber security expert! 
+So hey, I am an aspiring full-stack dev! 
 <br> <br>
 Currently,
 <br>
@@ -20,7 +20,7 @@ Read a bit more to get to know me
 from [Boot.dev](https://www.boot.dev/tracks/backend)
 
 # Ask me anything about -> 
-- Cyber Security
+- Web dev
 - DSA
 - Psychology
 - Mental Health
