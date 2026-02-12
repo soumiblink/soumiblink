@@ -6,7 +6,7 @@ So hey, I am an aspiring full-stack dev!
 Currently,
 <br>
 - 🔭 &nbsp; I’m currently working on a  **AI integrated web app**
-- 📝 &nbsp; Checkout my [resume]
+- 📝 &nbsp; Checkout my [https://drive.google.com/file/d/1U7k8fjh5YkBXk6xNqA6W9vhmuSUevHru/view?usp=sharing]
 <br>
 Read a bit more to get to know me 
 
@@ -23,8 +23,7 @@ from [Boot.dev](https://www.boot.dev/tracks/backend)
 - Web dev
 - DSA
 - Psychology
-- Mental Health
-- Gym
+
   
 ### 🔗 &nbsp; Connect with me
 <p align="left">
