@@ -22,6 +22,46 @@ I specialize in both **frontend and backend development**, from designing respon
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ---
 
+## 💡 Skills Summary
+
+**Frontend:**  
+React.js, HTML5, CSS3, Vite, JavaScript, TypeScript, Tailwind CSS  
+
+**Backend:**  
+Node.js, Express.js, Python, Next.js, Django, FastAPI, REST APIs  
+
+**Database:**  
+MongoDB, Supabase, PostgreSQL, Firebase  
+
+**Mobile Development:**  
+React Native, Progressive Web Apps, Responsive Design  
+
+**Tools & Technologies:**  
+Git, CI/CD, Linux, Jira, Gemini AI, Vertex AI, Postman, OpenCV  
+
+**Soft Skills:**  
+Adaptability, Agile Methodologies, Leadership, Public Speaking, Event Management  
+
+---
+
+## 💼 Experience
+
+### Jabsz Studio – Full Stack Developer (Intern)  
+*August – November 2025*  
+- Developed a fully responsive React Native/Expo mobile app and React web interface, ensuring seamless performance across devices  
+- Revamped UI/UX architecture, improving design consistency, responsiveness, and user satisfaction by **50%**  
+- Optimized backend performance with Firebase, improving real-time updates, data synchronization, and cloud security  
+- Collaborated with design and QA teams to deliver high-quality, scalable, and well-tested releases  
+
+### Zesframe – Full Stack Developer (Freelancer)  
+*March 2025 – September 2025*  
+- Improved website responsiveness by **40%** using Next.js and server-side rendering  
+- Integrated backend with React components while maintaining **100% version control** with Git/GitHub  
+- Managed deployment and hosting, ensuring **99.9% uptime** with optimized workflows and infrastructure monitoring  
+
+---
+
+
 ## 🚀 Currently Working On
 Here are some of the projects I’m actively building and improving:
 
