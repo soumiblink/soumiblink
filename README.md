@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Soumi — Full-Stack Developer
+#  Hi, I'm Soumi 
 
-👩‍💻 I build **scalable web applications** and **AI-integrated solutions** that solve real-world problems.  
-💡 Passionate about problem-solving, clean code, and creating intuitive user experiences.  
-🌱 Continuously learning new tools, frameworks, and best practices to deliver real-world projects.
-
-I specialize in both **frontend and backend development**, from designing responsive UI in React to building RESTful APIs with Node.js/Django, and deploying projects to the cloud. My goal is to **turn ideas into fully functional products** that users love.  
+I build software, and I'm increasingly focused on deciding what's worth building. Full-stack development background, now moving toward product management.  
 
 ---
 
@@ -22,25 +18,6 @@ I specialize in both **frontend and backend development**, from designing respon
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ---
 
-## 💡 Skills Summary
-
-**Frontend:**  
-React.js, HTML5, CSS3, Vite, JavaScript, TypeScript, Tailwind CSS  
-
-**Backend:**  
-Node.js, Express.js, Python, Next.js, Django, FastAPI, REST APIs  
-
-**Database:**  
-MongoDB, Supabase, PostgreSQL, Firebase  
-
-**Mobile Development:**  
-React Native, Progressive Web Apps, Responsive Design  
-
-**Tools & Technologies:**  
-Git, CI/CD, Linux, Jira, Gemini AI, Vertex AI, Postman, OpenCV  
-
-**Soft Skills:**  
-Adaptability, Agile Methodologies, Leadership, Public Speaking, Event Management  
 
 ---
 
@@ -59,28 +36,16 @@ Adaptability, Agile Methodologies, Leadership, Public Speaking, Event Management
 - Integrated backend with React components while maintaining **100% version control** with Git/GitHub  
 - Managed deployment and hosting, ensuring **99.9% uptime** with optimized workflows and infrastructure monitoring  
 
----
 
 
-## 🚀 Currently Working On
-Here are some of the projects I’m actively building and improving:
+## 🔗 Portfolios
 
-- **AI-Powered Applicant Tracking System** – Full-stack project with AI features for smarter hiring. Focused on automation, resume parsing, and candidate analytics.  
-- **StudyBuddy** – Collaborative study platform designed to help students learn together in real-time.  
-- **Portfolio Website** – Showcases all my projects with live demos, code samples, and professional documentation.
+- **Product** → [apm-portfolio-psi.vercel.app](https://apm-portfolio-psi.vercel.app/)
+- **Engineering** → [soumighosh.vercel.app](https://soumighosh.vercel.app/)
 
-> 🔗 [Portfolio / Live Demos](https://soumighosh.vercel.app/)
+I love **combining AI with development** to create tools that are not only functional but also intelligent and user-friendly.
 
-I love **combining AI with web development** to create tools that are not only functional but also intelligent and user-friendly.
 
----
-## 🌟 Key Achievements
-- ⚡ Built **full-stack projects** using MERN & Django  
-- 🤖 Integrated **AI features** to improve user experience 
-- 🏆 Completed certifications in React, Node.js, Python, and AI  
-- 💬 Collaborated on projects from **concept to deployment**  
-
-I am committed to **writing clean, maintainable code** and following software engineering principles, such as **DRY, SOLID, and modular design**.
 
 ---
 
