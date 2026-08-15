@@ -1,7 +1,9 @@
 #  Hi, I'm Soumi 
 
-I build software, and I'm increasingly focused on deciding what's worth building. Full-stack development background, now moving toward product management.  
-
+🧭 I care about deciding what's worth building as much as how to build it.
+👩‍💻 Full-stack developer — React, Node, Django — who'd rather ship the thing than just spec it.
+📐 I also write full product case studies — RICE prioritization, PRDs, experiment design treated like real work samples, not portfolio filler.
+🌱 Moving deliberately from engineering into product, without leaving the engineering behind.
 ---
 
 ## 🛠 Tech Stack
@@ -55,15 +57,5 @@ I’m always open to **collaboration, mentorship, and full-time opportunities**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumi-ghosh-7129012a5)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?logo=read-the-docs&logoColor=white)](https://soumighosh.vercel.app/)  
 ✉️ Email: soumi4717@gmail.com 
-
----
-
-
----
-
-## 💡 Personal Motto
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-
-Focused on developing innovative, reliable, and user-centric applications while embracing new technologies and best practices.
 
 
