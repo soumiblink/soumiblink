@@ -1,9 +1,9 @@
 #  Hi, I'm Soumi 
 
-🧭 I care about deciding what's worth building as much as how to build it.
-👩‍💻 Full-stack developer — React, Node, Django — who'd rather ship the thing than just spec it.
-📐 I also write full product case studies — RICE prioritization, PRDs, experiment design treated like real work samples, not portfolio filler.
-🌱 Moving deliberately from engineering into product, without leaving the engineering behind.
+ I care about deciding what's worth building as much as how to build it.
+ Full-stack developer — React, Node, Django — who'd rather ship the thing than just spec it.
+ I also write full product case studies — RICE prioritization, PRDs, experiment design treated like real work samples, not portfolio filler.
+ Moving deliberately from engineering into product, without leaving the engineering behind.
 ---
 
 ## 🛠 Tech Stack
