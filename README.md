@@ -22,20 +22,23 @@ I build software, and I'm increasingly focused on deciding what's worth building
 
 ## 💼 Experience
 
+### BlackCoffer – Software Development Engineering Intern
+  *May - June 2026*  
+- Integrated sequential backend APIs in a React Native + Expo app for enterprise onboarding workflows, reducing API execution failures by 35%
+-Optimized app stability using Gradle, Metro bundler, and Android runtime issues, reducing build time by 40% 
+
 ### Jabsz Studio – Full Stack Developer (Intern)  
 *August – November 2025*  
-- Developed a fully responsive React Native/Expo mobile app and React web interface, ensuring seamless performance across devices  
-- Revamped UI/UX architecture, improving design consistency, responsiveness, and user satisfaction by **50%**  
-- Optimized backend performance with Firebase, improving real-time updates, data synchronization, and cloud security  
-- Collaborated with design and QA teams to deliver high-quality, scalable, and well-tested releases  
+- Developed a multi-game web application (12+ games) with optimized state management and modular architecture, achieving 40% faster load times  
+- Designed a 3-tier difficulty system with dynamic logic and scoring, increasing average session time by 30% 
+- Built an AI-powered smart farming platform integrating weather, soil analysis, crop recommendations, LLM chatbot, and 6-month price forecasting, improving decision efficiency by 35% 
 
-### Zesframe – Full Stack Developer (Freelancer)  
+### Zesframe – Product Manager  
 *March 2025 – September 2025*  
-- Improved website responsiveness by **40%** using Next.js and server-side rendering  
-- Integrated backend with React components while maintaining **100% version control** with Git/GitHub  
-- Managed deployment and hosting, ensuring **99.9% uptime** with optimized workflows and infrastructure monitoring  
-
-
+- Owned product planning from requirements to delivery, working with clients to understand business needs, translate them into product requirements, and prioritize features based on impact, scope, and technical feasibility
+- Defined roadmaps and made prioritization trade-offs across features, balancing client priorities, user experience, development effort, and delivery timelines  
+- Bridged product and engineering execution, collaborating with design and development while also contributing hands-on to the build through React/Next.js, backend integrations, and technical implementation
+- Drove products through launch and iteration, managing scope and deployment while monitoring reliability and using implementation feedback to refine the product
 
 ## 🔗 Portfolios
 
