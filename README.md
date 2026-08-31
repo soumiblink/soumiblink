@@ -25,7 +25,7 @@ I build software, and I'm increasingly focused on deciding what's worth building
 ### BlackCoffer – Software Development Engineering Intern
   *May - June 2026*  
 - Integrated sequential backend APIs in a React Native + Expo app for enterprise onboarding workflows, reducing API execution failures by 35%
--Optimized app stability using Gradle, Metro bundler, and Android runtime issues, reducing build time by 40% 
+- Optimized app stability using Gradle, Metro bundler, and Android runtime issues, reducing build time by 40% 
 
 ### Jabsz Studio – Full Stack Developer (Intern)  
 *August – November 2025*  
